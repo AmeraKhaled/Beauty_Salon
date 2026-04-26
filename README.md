@@ -7,23 +7,7 @@ The project allows users to explore services, view details, and book appointment
 
 ## 🚀 Live Demo
 
-> (Add your deployed link here if available)
-
-Example:
-https://beauty-salon-demo.vercel.app
-
----
-
-## 📸 Preview
-
-> Add screenshots of your project here
-
-Example:
-![Home Page](./screenshots/home.png)
-![Services Page](./screenshots/services.png)
-![Booking Page](./screenshots/booking.png)
-
----
+https://amerakhaled.github.io/Beauty_Salon/
 
 ## ✨ Features
 
